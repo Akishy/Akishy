@@ -1,7 +1,7 @@
 # Hi there 👋
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️ It inspires me
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=%D0%A0%D0%BE%D0%B7%D1%8B%20%D0%B3%D0%B8%D0%B1%D0%BD%D1%83%D1%82%20%D0%BD%D0%B0%20%D0%B3%D0%B0%D0%B7%D0%BE%D0%BD%D0%B0%D1%85%2C%20%D0%BF%D0%B0%D1%86%D0%B0%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D0%B7%D1%83%D0%BC%20%D1%81%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D0%B0%D1%85)
 
 # 💫 About Me:
 🔭 I'm currently working on the system and business analytics of privileged access management software.<br>🌱 I’m currently learning software design patterns, domain-driven-design, agile processes<br>⚡ Fun fact I have secondary education in the field of information security and am currently receiving higher education
